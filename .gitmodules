@@ -1,0 +1,3 @@
+[submodule "honeyaccess/nodogsplash"]
+	path = honeyaccess/nodogsplash
+	url = https://github.com/honeyaccess/nodogsplash
