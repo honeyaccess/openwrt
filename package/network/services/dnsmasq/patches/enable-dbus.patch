@@ -1,0 +1,11 @@
+--- a/src/config.h
++++ b/src/config.h
+@@ -170,7 +170,7 @@
+ /*
+ 
+ /* #define HAVE_LUASCRIPT */
+-/* #define HAVE_DBUS */
++#define HAVE_DBUS
+ /* #define HAVE_IDN */
+ /* #define HAVE_CONNTRACK */
+ /* #define HAVE_DNSSEC */
